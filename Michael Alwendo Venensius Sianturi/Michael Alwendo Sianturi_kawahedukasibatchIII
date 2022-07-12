@@ -1,0 +1,83 @@
+Isilah data pribadi : 
+
+Nama : Michael Alwendo Sianturi
+Alamat Email: alwendo40@gmail.com
+Waktu Mulai :8:51
+Waktu Selesai :9:10
+
+CARA PENGERJAAN!!!
+
+buatlah file baru sesuai dengan number PERTANYAAN
+
+contoh: test_soal1.java
+
+untuk jawaban query silahkan buat file dengan format jawaban_test_query.txt
+
+PERTANYAAN !!
+
+1. Kami mempunyai data array dengan nama variable  data : 
+
+   function fizzBuzz(data) 
+
+      // Menampilkan data array[1,2,3,4,3,10,11,20,5,100,200];
+
+    for (var i = 1; i <= num; i++) {
+
+          // Jika angka merupakan kelipatan 5 dan 11, maka akan menampilkan "FizzBuzz"
+
+        if (i % 55 === 0) {
+
+            console.log("FizzBuzz");
+
+        }
+
+          // Jika angka yang keluar adalah angka 5, maka akan menampilkan hasilnya "Fizz"
+
+        else if (i % 5 === 0) {
+
+            console.log("Fizz");
+
+        }
+
+          // Jika angka yang keluar 11, maka akan menampilkan "Buzz"
+
+        else if (i % 11 === 0) {
+
+            console.log("Buzz");
+
+        }
+
+          // Selain angka yang berkelipatan 5 dan 11, maka akan menampilkan angka
+
+        else {
+
+            console.log(i);
+
+        }
+
+    }
+
+}
+
+fizzBuzz(200);
+
+2. Buatlah program untuk pengecekan tipe data:
+    
+    #include <iostream>
+ 
+using namespace std;
+ 
+int main()
+{
+  index 0 = 1, "ka", 67;
+  index 1 = "wah", "1772", "edukasi";
+  index 2 = 7, 98, -1;
+ 
+  cout << "Index ke 0 = "  << index0 << data1;
+  cout << "Index ke 1 = "  << index1 << data mantap;
+  cout << "Index ke 2 = "  << index2 << Tidak bisa validasi sistem;
+  
+ 
+  return 0;
+}
+
